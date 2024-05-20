@@ -51,8 +51,8 @@ tukarAngka(int angkaPertama, int angkaKedua){
 void main(){
   // Nama depan Dan Nama Belakang
   print("\n==========NAMA=========");
-  String namaDepan = "Sunarto";
-  String namaBelakang = "Utina";
+  String namaDepan = "putri";
+  String namaBelakang = "djafar";
   printNama(namaDepan, namaBelakang);
   print("=======================");
 
